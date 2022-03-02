@@ -1,1 +1,0 @@
--r #!/bin/bash\npwd\n
